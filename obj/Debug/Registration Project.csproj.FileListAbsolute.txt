@@ -1,0 +1,10 @@
+C:\Users\Gusta\Desktop\Registration Project\bin\Debug\Registration Project.exe.config
+C:\Users\Gusta\Desktop\Registration Project\bin\Debug\Registration Project.exe
+C:\Users\Gusta\Desktop\Registration Project\bin\Debug\Registration Project.pdb
+C:\Users\Gusta\Desktop\Registration Project\obj\Debug\Registration Project.csproj.AssemblyReference.cache
+C:\Users\Gusta\Desktop\Registration Project\obj\Debug\Registration_Project.Cadastro.resources
+C:\Users\Gusta\Desktop\Registration Project\obj\Debug\Registration_Project.Properties.Resources.resources
+C:\Users\Gusta\Desktop\Registration Project\obj\Debug\Registration Project.csproj.GenerateResource.cache
+C:\Users\Gusta\Desktop\Registration Project\obj\Debug\Registration Project.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\Desktop\Registration Project\obj\Debug\Registration Project.exe
+C:\Users\Gusta\Desktop\Registration Project\obj\Debug\Registration Project.pdb
